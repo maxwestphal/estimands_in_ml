@@ -1,0 +1,39 @@
+---
+title: "The role of estimands in machine learning algorithm evaluation: Real world data example"
+author: "Max Westphal, Rieke Alpers"
+date: "`r Sys.Date()`"
+output: md_document
+---
+
+# Estimands in machine learning algorithm evaluation: Real world data
+
+
+---
+
+## Overview
+
+In this 
+
+
+## Implementation
+
+The analysis is divided into 6 R/Rmd files
+
+- 0_rwd
+- 1_rwd_data_preproc.R
+- 2_rwd
+- 3_rwd
+- 4_rwd
+- 5_rwd
+
+
+## Reproducibility
+
+
+
+
+---
+
+## References
+
+... add reference

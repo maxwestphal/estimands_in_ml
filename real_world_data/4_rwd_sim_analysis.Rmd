@@ -1,0 +1,108 @@
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+# TODO: which further dependencies needed?
+#source("_setup.R") # I get an error message...
+esti_dir <- "//gaia/fme/home/ralpers/public/estimands_in_ml_files"
+rwd_dir <- file.path(esti_dir, "real_world_data")
+library(dplyr)
+library(knitr)
+library(ggplot2)
+library(tidyr)
+
+R <- readr::read_csv(file.path(rwd_dir, "sim_results", "results.csv"),
+                  show_col_types = FALSE)
+```
+
+
+# Perfromance metrics per fold
+```{r}
+metrics <- R %>% 
+  group_by(missing, split_type, outcome, method, hp, iter) %>% 
+  summarise(sensitivity = sum(y == 1 & yhat == 1)/sum(y == 1),
+            specificity = sum(y == 0 & yhat == 0)/sum(y == 0),
+            balanced_accuracy = mean(c(sensitivity, specificity)))
+
+min_max_performance <- metrics %>% 
+  group_by(missing, split_type, outcome, method) %>% 
+  summarise(min_sensitivity = min(sensitivity, na.rm = T),
+            max_sensitivity = max(sensitivity, na.rm = T),
+            NA_sensitivity = sum(is.na(sensitivity)),
+            min_specificity = min(specificity, na.rm = T),
+            max_specificity = max(specificity, na.rm = T),
+            NA_specificity = sum(is.na(specificity)),
+            min_balanced_accuracy = min(balanced_accuracy, na.rm = T),
+            max_balanced_accuracy = max(balanced_accuracy, na.rm = T))
+
+kable(min_max_performance)
+```
+There is enough predictive power in the features that there is no systematic majority vote in the models using the different types of data, splits, outcomes and methods.
+In three countries nobody was reported do be dead after 14 days and in 2 of them there was even nobody reported dead after 6 months.
+
+# Balanced accuracy
+
+```{r}
+ba_per_job <- metrics %>% group_by(missing, split_type, outcome, method, hp) %>% 
+  summarize(mean_across_folds = mean(balanced_accuracy, na.rm = T),
+            var_between_folds = var(balanced_accuracy, na.rm = T))
+#kable(ba_per_job)
+
+```
+
+## Summarizing results of different hyperparameters
+```{r}
+ba_across_hp <- ba_per_job %>% group_by(missing, split_type, outcome, method) %>% 
+  summarize(mean_across_hp = mean(mean_across_folds, na.rm = T),
+            var_between_hp_mean_across_folds = var(mean_across_folds),
+            mean_across_hp_var_between_folds = mean(var_between_folds),
+            var_between_hp_var_between_folds = var(var_between_folds))
+#kable(ba_across_hp)
+```
+### Outcome 1: death within 14 days
+```{r}
+plot_ba_ID14 <- ggplot(filter(ba_per_job, outcome == "ID14"), aes(x = split_type, y = mean_across_folds)) +
+  geom_boxplot() +
+  facet_wrap(method~missing)
+plot_ba_ID14
+```
+
+### Outcome 2: death within 6 months
+```{r}
+plot_ba_FDEAD <- ggplot(filter(ba_per_job, outcome == "FDEAD"), aes(x = split_type, y = mean_across_folds)) +
+  geom_boxplot() +
+  facet_wrap(method~missing)
+plot_ba_FDEAD
+```
+
+## Pairwise difference between results of different hyperparameters
+```{r}
+ba_diff_per_job <- ba_per_job %>% group_by(missing, outcome, method, hp) %>%
+  summarize(ran_geo = mean_across_folds[split_type == "cv_10_a"] - mean_across_folds[split_type == "country_diff"],
+            ran_temp = mean_across_folds[split_type == "cv_10_a"] - mean_across_folds[split_type == "year_lag1"],
+            temp_geo = mean_across_folds[split_type == "year_lag1"] - mean_across_folds[split_type == "country_diff"]) %>% 
+  pivot_longer(c(ran_geo, ran_temp, temp_geo), names_to = "compared_split_types", values_to = "diff_mean_ba")
+
+overall_difference <- ba_diff_per_job %>% group_by(compared_split_types, method) %>% 
+  summarize(mean_diff = mean(diff_mean_ba),
+            var_diff = var(diff_mean_ba),
+            min_diff = min(diff_mean_ba),
+            max_diff = max(diff_mean_ba))
+kable(overall_difference)
+```
+
+### Outcome 1: death within 14 days
+```{r}
+plot_diff_ba_ID14 <- ggplot(filter(ba_diff_per_job, outcome == "ID14"), aes(x = compared_split_types, y = diff_mean_ba)) +
+  geom_boxplot() +
+  facet_wrap(method~missing)
+plot_diff_ba_ID14
+```
+
+### Outcome 2: death within 6 months
+```{r}
+plot_diff_ba_FDEAD <- ggplot(filter(ba_diff_per_job, outcome == "FDEAD"), aes(x = compared_split_types, y = diff_mean_ba)) +
+  geom_boxplot() +
+  facet_wrap(method~missing)
+plot_diff_ba_FDEAD
+```

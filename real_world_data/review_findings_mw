@@ -1,0 +1,29 @@
+
+-----
+Tips
+-----
+
+- paths -> relative paths (file.path function)
+
+- avoid explicit indices (obs/vars) wherever possible
+
+- random seed drawing/splitting -> seperate script (done)
+
+- There should be a seperate data folder with only raw/original/unprocessed data (e.g. data_raw)
+
+e.g. estimands_in_ml/real_world_data/ data_raw + dataessed + objects
+--> modified folder structure (done)
+
+- general data processing: usually try to opt for either "classic R" or for tidyverse solutions
+
+
+
+-----
+Other stuff
+-----
+
+- There should be a script for data downloading, I (MW) can implement this via opendata package
+
+- renv error when instaling any package... solve this later
+
+

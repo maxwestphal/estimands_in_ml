@@ -1,0 +1,42 @@
+---
+title: "Estimands in ML"
+author: "Max Westphal (max.westphal@mevis.fraunhofer.de)"
+date: "`r Sys.Date()`"
+output: md_document
+---
+
+# Estimands in machine learning algorithm evaluation
+
+
+
+
+---
+
+## Overview
+
+... Purpose of this repo ...
+
+- Literature review
+- Simulation study
+- Real world data
+
+Separate detailed README for each...
+
+
+---
+
+## Installation
+
+This package can be installed from GitHub with the following command
+
+```{r install, eval=FALSE, echo=TRUE}
+NA # TODO
+```
+
+
+
+---
+
+## References
+
+... add reference

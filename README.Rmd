@@ -1,0 +1,54 @@
+---
+title: "Estimands in ML"
+author: "Max Westphal (max.westphal@mevis.fraunhofer.de)"
+date: "`r Sys.Date()`"
+output: md_document
+---
+
+# Estimands in machine learning algorithm evaluation
+
+TODO: extend README
+
+
+---
+
+## Overview
+
+... Purpose of this repo ...
+
+- Literature review
+- Simulation study
+- Real world data
+
+Separate detailed README for each...
+
+
+---
+
+## Installation
+
+This package can be installed from GitHub with the following command
+
+```{r install, eval=FALSE, echo=TRUE}
+NA 
+```
+
+
+--- 
+
+## Usage
+
+Run scripts in the following order
+
+- "0_rwd_functions.R"
+- "1_rwd_data_preproc.R"
+- "2_rwd_data_splitting.R"
+- "3_rwd_sim_implementation.R"
+- "4_rwd_sim_analysis.R"
+
+
+---
+
+## References
+
+... add reference

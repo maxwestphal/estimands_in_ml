@@ -1,0 +1,251 @@
+search_id,year,period,search,search_word,search_tag,query_id
+1,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,,incl,1
+2,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,generalizability,grp1,2
+3,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,transportability,grp1,3
+4,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,transferability,grp1,4
+5,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended context,grp2,5
+6,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated context,grp2,6
+7,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned context,grp2,7
+8,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended setting,grp2,8
+9,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated setting,grp2,9
+10,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned setting,grp2,10
+11,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended use,grp2,11
+12,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated use,grp2,12
+13,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned use,grp2,13
+14,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended usage,grp2,14
+15,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated usage,grp2,15
+16,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned usage,grp2,16
+17,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended utilization,grp2,17
+18,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated utilization,grp2,18
+19,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned utilization,grp2,19
+20,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended application,grp2,20
+21,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated application,grp2,21
+22,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned application,grp2,22
+23,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,intended implementation,grp2,23
+24,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,designated implementation,grp2,24
+25,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,planned implementation,grp2,25
+26,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external validation,grp3,26
+27,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal validation,grp3,27
+28,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological validation,grp3,28
+29,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial validation,grp3,29
+30,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional validation,grp3,30
+31,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic validation,grp3,31
+32,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational validation,grp3,32
+33,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre validation,grp3,33
+34,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre validation,grp3,34
+35,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter validation,grp3,35
+36,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center validation,grp3,36
+37,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external CV,grp3,37
+38,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal CV,grp3,38
+39,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological CV,grp3,39
+40,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial CV,grp3,40
+41,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional CV,grp3,41
+42,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic CV,grp3,42
+43,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational CV,grp3,43
+44,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre CV,grp3,44
+45,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre CV,grp3,45
+46,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter CV,grp3,46
+47,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center CV,grp3,47
+48,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external cross validation,grp3,48
+49,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal cross validation,grp3,49
+50,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological cross validation,grp3,50
+51,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial cross validation,grp3,51
+52,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional cross validation,grp3,52
+53,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic cross validation,grp3,53
+54,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational cross validation,grp3,54
+55,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre cross validation,grp3,55
+56,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre cross validation,grp3,56
+57,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter cross validation,grp3,57
+58,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center cross validation,grp3,58
+59,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external cross-validation,grp3,59
+60,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal cross-validation,grp3,60
+61,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological cross-validation,grp3,61
+62,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial cross-validation,grp3,62
+63,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional cross-validation,grp3,63
+64,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic cross-validation,grp3,64
+65,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational cross-validation,grp3,65
+66,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre cross-validation,grp3,66
+67,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre cross-validation,grp3,67
+68,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter cross-validation,grp3,68
+69,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center cross-validation,grp3,69
+70,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external hold-out validation,grp3,70
+71,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal hold-out validation,grp3,71
+72,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological hold-out validation,grp3,72
+73,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial hold-out validation,grp3,73
+74,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional hold-out validation,grp3,74
+75,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic hold-out validation,grp3,75
+76,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational hold-out validation,grp3,76
+77,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre hold-out validation,grp3,77
+78,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre hold-out validation,grp3,78
+79,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter hold-out validation,grp3,79
+80,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center hold-out validation,grp3,80
+81,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external holdout validation,grp3,81
+82,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal holdout validation,grp3,82
+83,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological holdout validation,grp3,83
+84,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial holdout validation,grp3,84
+85,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional holdout validation,grp3,85
+86,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic holdout validation,grp3,86
+87,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational holdout validation,grp3,87
+88,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre holdout validation,grp3,88
+89,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre holdout validation,grp3,89
+90,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter holdout validation,grp3,90
+91,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center holdout validation,grp3,91
+92,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external evaluation,grp3,92
+93,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal evaluation,grp3,93
+94,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological evaluation,grp3,94
+95,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial evaluation,grp3,95
+96,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional evaluation,grp3,96
+97,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic evaluation,grp3,97
+98,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational evaluation,grp3,98
+99,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre evaluation,grp3,99
+100,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre evaluation,grp3,100
+101,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter evaluation,grp3,101
+102,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center evaluation,grp3,102
+103,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external assessment,grp3,103
+104,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal assessment,grp3,104
+105,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological assessment,grp3,105
+106,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial assessment,grp3,106
+107,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional assessment,grp3,107
+108,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic assessment,grp3,108
+109,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational assessment,grp3,109
+110,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre assessment,grp3,110
+111,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre assessment,grp3,111
+112,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter assessment,grp3,112
+113,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center assessment,grp3,113
+114,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,external validity,grp3,114
+115,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,temporal validity,grp3,115
+116,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,methodological validity,grp3,116
+117,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,spatial validity,grp3,117
+118,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,regional validity,grp3,118
+119,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,geographic validity,grp3,119
+120,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,locational validity,grp3,120
+121,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicentre validity,grp3,121
+122,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-centre validity,grp3,122
+123,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multicenter validity,grp3,123
+124,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,multi-center validity,grp3,124
+125,2021,"((""2021/01/01""[Date - Publication] : ""2021/12/31""[Date - Publication]))",,estimand,grp4,125
+1,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,,incl,126
+2,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,generalizability,grp1,127
+3,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,transportability,grp1,128
+4,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,transferability,grp1,129
+5,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended context,grp2,130
+6,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated context,grp2,131
+7,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned context,grp2,132
+8,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended setting,grp2,133
+9,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated setting,grp2,134
+10,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned setting,grp2,135
+11,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended use,grp2,136
+12,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated use,grp2,137
+13,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned use,grp2,138
+14,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended usage,grp2,139
+15,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated usage,grp2,140
+16,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned usage,grp2,141
+17,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended utilization,grp2,142
+18,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated utilization,grp2,143
+19,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned utilization,grp2,144
+20,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended application,grp2,145
+21,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated application,grp2,146
+22,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned application,grp2,147
+23,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,intended implementation,grp2,148
+24,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,designated implementation,grp2,149
+25,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,planned implementation,grp2,150
+26,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external validation,grp3,151
+27,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal validation,grp3,152
+28,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological validation,grp3,153
+29,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial validation,grp3,154
+30,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional validation,grp3,155
+31,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic validation,grp3,156
+32,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational validation,grp3,157
+33,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre validation,grp3,158
+34,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre validation,grp3,159
+35,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter validation,grp3,160
+36,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center validation,grp3,161
+37,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external CV,grp3,162
+38,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal CV,grp3,163
+39,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological CV,grp3,164
+40,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial CV,grp3,165
+41,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional CV,grp3,166
+42,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic CV,grp3,167
+43,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational CV,grp3,168
+44,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre CV,grp3,169
+45,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre CV,grp3,170
+46,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter CV,grp3,171
+47,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center CV,grp3,172
+48,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external cross validation,grp3,173
+49,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal cross validation,grp3,174
+50,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological cross validation,grp3,175
+51,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial cross validation,grp3,176
+52,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional cross validation,grp3,177
+53,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic cross validation,grp3,178
+54,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational cross validation,grp3,179
+55,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre cross validation,grp3,180
+56,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre cross validation,grp3,181
+57,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter cross validation,grp3,182
+58,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center cross validation,grp3,183
+59,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external cross-validation,grp3,184
+60,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal cross-validation,grp3,185
+61,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological cross-validation,grp3,186
+62,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial cross-validation,grp3,187
+63,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional cross-validation,grp3,188
+64,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic cross-validation,grp3,189
+65,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational cross-validation,grp3,190
+66,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre cross-validation,grp3,191
+67,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre cross-validation,grp3,192
+68,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter cross-validation,grp3,193
+69,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center cross-validation,grp3,194
+70,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external hold-out validation,grp3,195
+71,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal hold-out validation,grp3,196
+72,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological hold-out validation,grp3,197
+73,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial hold-out validation,grp3,198
+74,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional hold-out validation,grp3,199
+75,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic hold-out validation,grp3,200
+76,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational hold-out validation,grp3,201
+77,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre hold-out validation,grp3,202
+78,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre hold-out validation,grp3,203
+79,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter hold-out validation,grp3,204
+80,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center hold-out validation,grp3,205
+81,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external holdout validation,grp3,206
+82,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal holdout validation,grp3,207
+83,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological holdout validation,grp3,208
+84,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial holdout validation,grp3,209
+85,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional holdout validation,grp3,210
+86,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic holdout validation,grp3,211
+87,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational holdout validation,grp3,212
+88,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre holdout validation,grp3,213
+89,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre holdout validation,grp3,214
+90,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter holdout validation,grp3,215
+91,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center holdout validation,grp3,216
+92,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external evaluation,grp3,217
+93,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal evaluation,grp3,218
+94,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological evaluation,grp3,219
+95,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial evaluation,grp3,220
+96,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional evaluation,grp3,221
+97,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic evaluation,grp3,222
+98,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational evaluation,grp3,223
+99,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre evaluation,grp3,224
+100,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre evaluation,grp3,225
+101,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter evaluation,grp3,226
+102,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center evaluation,grp3,227
+103,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external assessment,grp3,228
+104,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal assessment,grp3,229
+105,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological assessment,grp3,230
+106,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial assessment,grp3,231
+107,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional assessment,grp3,232
+108,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic assessment,grp3,233
+109,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational assessment,grp3,234
+110,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre assessment,grp3,235
+111,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre assessment,grp3,236
+112,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter assessment,grp3,237
+113,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center assessment,grp3,238
+114,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,external validity,grp3,239
+115,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,temporal validity,grp3,240
+116,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,methodological validity,grp3,241
+117,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,spatial validity,grp3,242
+118,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,regional validity,grp3,243
+119,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,geographic validity,grp3,244
+120,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,locational validity,grp3,245
+121,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicentre validity,grp3,246
+122,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-centre validity,grp3,247
+123,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multicenter validity,grp3,248
+124,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,multi-center validity,grp3,249
+125,2022,"((""2022/01/01""[Date - Publication] : ""2022/12/31""[Date - Publication]))",,estimand,grp4,250
