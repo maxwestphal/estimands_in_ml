@@ -140,12 +140,20 @@ setup_annotation <- function(grid,
     summarize(search_ids=paste0(search_id, collapse = "|")) %>% 
     mutate(num_hits = length(ids_str_to_search_ids(search_ids))) %>% 
     mutate(ids_str_to_words(search_ids, max_hits=max(num_hits), grid_pos, 3)) %>% 
-    mutate(exclude = "", no_pdf="", 
-           val_only = "", 
-           unconditional="",
-           estimand ="",
-           esti_site = "", esti_region="", esti_time = "", esti_process="", esti_setting="",
-           estimator = "",
+    mutate(exclude = "",
+           no_pdf = "", 
+           outlook_only = "", 
+           val_only = "",
+           study_design = "",
+           unconditional = "", 
+           estimand_rdm = "",
+           estimand_vague ="",
+           transport_site = "",
+           transport_region="",
+           transport_time = "",
+           transport_process="",
+           transport_setting="",
+           overlap = "",
            remark = "",
            done = "")
   

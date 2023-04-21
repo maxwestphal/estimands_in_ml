@@ -29,7 +29,7 @@ library(easyPubMed)
 ## define list of directory:
 dir <- list()
 dir$main <- "1_literature_review"
-dir$files <- "E:/estimands_in_ml_files"
+dir$files <- "E:/estimands_in_ml_files/literature_review"
 dir$extract <- file.path(dir$files, "extract")
 dir$annotation <- file.path(dir$files, "annotation")
 
