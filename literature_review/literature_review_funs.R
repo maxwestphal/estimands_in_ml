@@ -140,22 +140,29 @@ setup_annotation <- function(grid,
     summarize(search_ids=paste0(search_id, collapse = "|")) %>% 
     mutate(num_hits = length(ids_str_to_search_ids(search_ids))) %>% 
     mutate(ids_str_to_words(search_ids, max_hits=max(num_hits), grid_pos, 3)) %>% 
-    mutate(exclude = "",
-           no_pdf = "", 
-           outlook_only = "", 
+    mutate(BASIC = "+++++",
+           exclude = "",
+           no_pdf = "",
+           
+           STUDY = "+++++",
            val_only = "",
-           study_design = "",
-           unconditional = "", 
+           exp_design = "",
+           
+           ESTIMAND = "+++++",
+           unconditional = "",
            estimand_rdm = "",
            estimand_vague ="",
            transport_site = "",
-           transport_region="",
+           transport_region = "",
            transport_time = "",
-           transport_process="",
-           transport_setting="",
+           transport_process = "",
+           transport_setting = "",
            overlap = "",
-           remark = "",
-           done = "")
+           
+           OTHER = "+++++",
+           done = "",
+           remark = ""
+    )
   
   ## negative hits, i.e. included but not search term hit (neg)
   df_neg <- df_all %>% 
